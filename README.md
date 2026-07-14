@@ -26,7 +26,7 @@
 
 
 <div align="center">
-  <img src="Fig/Fig02.png" width="55%" alt="STCA-SNN" />
+  <img src="Fig/Fig02.png" width="65%" alt="STCA-SNN" />
 </div>
 
 ## Prerequisites
